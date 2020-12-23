@@ -1,0 +1,935 @@
+* {
+padding: 0;
+margin: 0;
+}
+body{
+  font-family: Mackay DEMO;
+}
+
+.logo{
+  float: left;
+  padding: 32px 32px 24px 32px;
+  text-align: left;
+}
+.allitem{
+  float: inherit;
+  color: rgb(237,235,230);
+  font-size: 16px;
+  text-align: right;
+}
+.wave{
+}
+
+
+.title{
+  color : rgb(237,235,230);
+  font-size: 140px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.title1{
+  color: rgb(237,235,230);
+  font-family: serif;
+  font-size: 16px;
+  letter-spacing: 8.24px;
+  text-align: center;
+}
+
+.title2{
+  color: rgb(255,255,255);
+  font-family: serif;
+  font-size: 12px;
+  margin-top: 40px;
+  text-align: center;
+
+}
+
+body{
+  color: rgb(115,113,109)
+}
+
+.content{
+  padding: 96px 0px 96px 0px;
+}
+.content1{
+  font-family: serif;
+  font-size: 16px;
+  text-align: center;
+}
+.content2{
+  font-family: serif;
+  font-size: 12px;
+  text-align: center;
+}
+
+.above_the_concept1{
+  float: left;
+  height: 609px;
+  width: 432px; /*アニメーションくっつける*/
+}
+.br_1{
+  float: left;
+  height: 712.656px;
+  width: 0px;
+  padding-right: 128px;
+
+}
+.above_the_concept2{
+  height: 609px;
+  width: 432px;
+  padding-top: 124px;
+}
+
+.br_2{
+  width: 128px;
+  height: 0px;
+  padding-top: 96px;
+}
+
+h2{
+  font-size: 36px;
+  font-weight: 400;
+  padding-left: 140px;
+}
+h3{
+  font-family: serif;
+  font-size: 16px;
+  line-height: 28.275px;
+  padding-left: 140px;
+}
+
+.concept1{
+  float: left;
+  font-family: serif;
+  font-size: 15px;
+  line-height: 28.275px;
+  padding: 36px 60px 0px 432px;
+  text-align: left;
+
+}
+
+.concept2{
+  font-family: serif;
+  font-size: 15px;
+  line-height: 28.275px;
+  padding-top: 36px;
+  text-align: left;
+}
+
+h4{
+  font-size: 36px;
+  font-weight: 400;
+  padding-left: 140px;
+}
+h5{
+  font-family: serif;
+  font-size: 14px;
+  font-weight: 400;
+  padding-left: 140px;
+}
+.newitems{
+  padding-top: 96px;
+  padding-bottom: 96px;
+  height: 433.609px;
+
+}
+.pic_of_newitem{
+  float:left;
+  width: 314.656px;
+  height: 433.609px;
+  padding-left: 400px;
+  padding-right: 96px;
+
+}
+
+.newitems1{
+  padding-left: 40px;
+}
+.title_of_newitem1{
+  font-size: 24px;
+  padding-top: 96px;
+}
+.title_of_newitem2{
+  font-family: serif;
+  font-size: 12px;
+  padding-top:8px;
+  padding-bottom: 12px;
+  line-height: 18px;
+}
+.exp_of_newitem{
+  font-family: serif;
+  font-size: 13px;
+  line-height: 35.62px;
+}
+
+.kind_of_handwashmist{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 96px;
+}
+.kind_of_handwashmist_plainly{
+  float: left;
+  height: 50px;
+  width: 130px;
+}
+.kind_of_handwashmist_plainly_01{
+ font-size: 10px;
+ line-height: 0px;
+}
+.kind_of_handwashmist_plainly_name{
+  font-size: 20px;
+  text-align: center;
+}
+.kind_of_handwashmist_memento{
+  float: left;
+  height: 50px;
+  width: 130px;
+}
+.kind_of_handwashmist_memento_02{
+ font-size: 10px;
+ line-height: 0px;
+}
+.kind_of_handwashmist_memento_name{
+  font-size: 20px;
+  text-align: center;
+}
+.kind_of_handwashmist_whimsy{
+  float: left;
+  height: 50px;
+  width: 130px;
+}
+.kind_of_handwashmist_whimsy_03{
+  font-size: 10px;
+  line-height: 0px;
+}
+.kind_of_handwashmist_whimsy_name{
+  font-size: 20px;
+  text-align: center;
+}
+.kind_of_handwashmist_salvage{
+  float: left;
+  height: 50px;
+  width: 130px;
+}
+.kind_of_handwashmist_salvage_04{
+  font-size: 10px;
+  line-height: 0px;
+}
+.kind_of_handwashmist_salvage_name{
+  font-size: 20px;
+  text-align: center;
+}
+
+.pic_of_plainly{
+  float: left;
+  height: 687.125px;
+  width: 514.906px;
+  padding-left: 96px;
+  padding-right: 112px;
+}
+.content_of_plainly{
+  float: left;
+}
+.message_of_plainly{
+  padding-top: 100px;
+  padding-bottom: 80px;
+}
+h6{
+  font-size: 40px;
+  font-weight: 400;
+}
+h7{
+  font-family: serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.text_of_plainly{
+  font-family: serif;
+  font-size: 13px;
+  padding-top: 10px;
+  line-height: 35.62px;
+}
+.smell_of_plainly{
+}
+.t_smell_of_plainly{
+  font-family: serif;
+  font-size: 13px;
+  line-height: 35.62px;
+  padding-bottom: 10px;
+}
+.plainly_note{
+  font-size: 10px;
+  font-family: serif;
+}
+.box_about_topnote{
+  border: solid 1px;
+  display: inline-block;
+  border-color: rgb(220,216,209);
+}
+.about_topnote{
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.about_topnote1{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.box_about_middlenote{
+  border: solid 1px;
+  display: inline-block;
+  border-color: rgb(220,216,209);
+}
+.about_middlenote{
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.about_middlenote1{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.box_about_lastnote{
+  border: solid 1px;
+  display: inline-block;
+  border-color: rgb(220,216,209);
+}
+.about_lastnote{
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.about_lastnote1{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.cost_of_plainly{
+  font-family: serif;
+  font-size: 12px;
+}
+.amount_and_cost_of_plainly{
+  padding-top: 20px;
+}
+.detail_about_plainly{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  line-height: 18px;
+}
+.box_buy_plainly{
+  border: solid 1px;
+  display: inline-block;
+  border-color: rgb(220,216,209);
+  padding: 16px 96px;
+}
+.buy_plainly{
+  font-size: 12px;
+}
+.pic_of_memento{
+  float: right;
+  height: 687.125px;
+  width: 514.906px;
+  padding-left: 96px;
+  padding-right: 112px;
+}
+.content_of_memento{
+  padding-right: 96px;
+  float: right;
+}
+.message_of_memento{
+  padding-top: 100px;
+  padding-bottom: 80px;
+}
+h8{
+  font-size: 40px;
+  font-weight: 400;
+}
+h9{
+  font-family: serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.text_of_memento{
+  font-family: serif;
+  font-size: 13px;
+  padding-top: 10px;
+  line-height: 35.62px;
+}
+.smell_of_memento{
+}
+.t_smell_of_memento{
+  font-family: serif;
+  font-size: 13px;
+  line-height: 35.62px;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+.memento_note{
+  font-size: 10px;
+  font-family: serif;
+}
+.box_about_topnote_m{
+  border: solid 1px;
+  display: inline-block;
+  border-color: rgb(220,216,209);
+}
+.about_topnote_m{
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.about_topnote1_m{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.box_about_middlenote_m{
+  border: solid 1px;
+  display: inline-block;
+  border-color: rgb(220,216,209);
+}
+.about_middlenote_m{
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.about_middlenote1_m{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.box_about_lastnote_m{
+  border: solid 1px;
+  display: inline-block;
+  border-color: rgb(220,216,209);
+}
+.about_lastnote_m{
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.about_lastnote1_m{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.cost_of_memento{
+  font-family: serif;
+  font-size: 12px;
+}
+.amount_and_cost_of_memento{
+  padding-top: 20px;
+}
+.detail_about_memento{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  line-height: 18px;
+}
+.box_buy_memento{
+  border: solid 1px;
+  display: inline-block;
+  border-color: rgb(220,216,209);
+  padding: 16px 96px;
+}
+.buy_memento{
+  font-size: 12px;
+}
+.pic_of_whimsy{
+  float: left;
+  height: 687.125px;
+  width: 514.906px;
+  padding-left: 96px;
+  padding-right: 112px;
+}
+.content_of_whimsy{
+  padding-right: 96px;
+  float: left;
+}
+.message_of_whimsy{
+  padding-top: 100px;
+  padding-bottom: 80px;
+}
+h10{
+  font-size: 40px;
+  font-weight: 400;
+}
+h11{
+  font-family: serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.text_of_whimsy{
+  font-family: serif;
+  font-size: 13px;
+  padding-top: 10px;
+  line-height: 35.62px;
+}
+.smell_of_whimsy{
+}
+.t_smell_of_whimsy{
+  font-family: serif;
+  font-size: 13px;
+  line-height: 35.62px;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+.whimsy_note{
+  font-size: 10px;
+  font-family: serif;
+}
+.box_about_topnote_w{
+  border: solid 1px;
+  display: inline-block;
+  border-color: rgb(220,216,209);
+}
+.about_topnote_w{
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.about_topnote1_w{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.box_about_middlenote_w{
+  border: solid 1px;
+  display: inline-block;
+  border-color: rgb(220,216,209);
+}
+.about_middlenote_w{
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.about_middlenote1_w{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.box_about_lastnote_w{
+  border: solid 1px;
+  display: inline-block;
+  border-color: rgb(220,216,209);
+}
+.about_lastnote_w{
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.about_lastnote1_w{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.cost_of_whimsy{
+  font-family: serif;
+  font-size: 12px;
+}
+.amount_and_cost_of_whimsy{
+  padding-top: 20px;
+}
+.detail_about_whimsy{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  line-height: 18px;
+}
+.box_buy_whimsy{
+  border: solid 1px;
+  display: inline-block;
+  border-color: rgb(220,216,209);
+  padding: 16px 96px;
+}
+.buy_whimsy{
+  font-size: 12px;
+}
+
+.pic_of_salvage{
+  clear: left;
+  float: right;
+  height: 687.125px;
+  width: 514.906px;
+  padding-left: 96px;
+  padding-right: 112px;
+}
+.content_of_salvage{
+  padding-right: 96px;
+  float: right;
+}
+.message_of_salvage{
+  padding-top: 100px;
+  padding-bottom: 80px;
+}
+h12{
+  font-size: 40px;
+  font-weight: 400;
+}
+h13{
+  font-family: serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.text_of_salvage{
+  font-family: serif;
+  font-size: 13px;
+  padding-top: 10px;
+  line-height: 35.62px;
+}
+.smell_of_salvage{
+}
+.t_smell_of_salvage{
+  font-family: serif;
+  font-size: 13px;
+  line-height: 35.62px;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+.salvage_note{
+  font-size: 10px;
+  font-family: serif;
+}
+.box_about_topnote_s{
+  border: solid 1px;
+  display: inline-block;
+  border-color: rgb(220,216,209);
+}
+.about_topnote_s{
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.about_topnote1_s{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.box_about_middlenote_s{
+  border: solid 1px;
+  display: inline-block;
+  border-color: rgb(220,216,209);
+}
+.about_middlenote_s{
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.about_middlenote1_s{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.box_about_lastnote_s{
+  border: solid 1px;
+  display: inline-block;
+  border-color: rgb(220,216,209);
+}
+.about_lastnote_s{
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.about_lastnote1_s{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.cost_of_salvage{
+  font-family: serif;
+  font-size: 12px;
+}
+.amount_and_cost_of_salvage{
+  padding-top: 20px;
+}
+.detail_about_salvage{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  line-height: 18px;
+}
+.box_buy_salvage{
+  border: solid 1px;
+  display: inline-block;
+  border-color: rgb(220,216,209);
+  padding: 16px 96px;
+}
+.buy_salvage{
+  font-size: 12px;
+}
+
+.point_of_newitem{
+  height: 96px;
+  padding-top: 30px;
+}
+.t_point_of_newitem{
+  text-align: center;
+}
+.point{
+
+}
+.point_in_japanese{
+  font-family: serif;
+}
+
+.about_newitem{
+  display: flex;
+  flex-wrap: wrap;
+  font-family: serif;
+}
+.about_newitem li{
+  width: calc(100%/4);
+	padding:0 20px;
+	box-sizing:border-box;
+}
+.about_newitem li img{
+	max-width:100%;
+	height: auto;
+}
+.alcohol_of_newitem{
+  width: 190px;
+  font-family: serif;
+  padding-left: 30px;
+}
+.pic_of_alcohol{
+  height: 191px;
+  width:190px;
+}
+.sub_of_alcohol{
+  font-size: 15px;
+}
+.text_of_alcohol{
+  font-size: 12px;
+}
+
+.moist_of_newitem{
+  width: 190px;
+  font-family: serif;
+}
+.pic_of_moist{
+  height: 191px;
+  width:190px;
+}
+.sub_of_moist{
+  font-size: 15px;
+}
+.text_of_moist{
+  font-size: 12px;
+}
+
+.smell_of_newitem{
+  width: 190px;
+  font-family: serif;
+}
+.pic_of_smell{
+  height: 191px;
+  width:190px;
+}
+.sub_of_smell{
+  font-size: 15px;
+}
+.text_of_smell{
+  font-size: 12px;
+}
+
+.virus_of_newitem{
+  width: 190px;
+  font-family: serif;
+}
+.pic_of_virus{
+  height: 191px;
+  width:190px;
+}
+.sub_of_virus{
+  font-size: 15px;
+}
+.text_of_virus{
+  font-size: 12px;
+}
+.ps_newitem{
+  font-family: serif;
+  font-size: 10px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.about_allitem{
+padding-top: 300px;
+}
+.allitem_about{
+  font-size: 36px;
+  text-align: center;
+}
+.allitem_about_j{
+  font-size: 14px;
+  text-align: center;
+  font-family: serif;
+}
+
+.two_allitem{
+  padding-top: 40px;
+}
+.title_of_allitem{
+  font-size: 24px;
+  text-align: center;
+}
+.title_of_allitem_j{
+  font-family: serif;
+  font-size: 12px;
+  text-align: center;
+}
+
+.four_kind_of_allitem{
+  display: flex;
+  justify-content: space-evenly;
+  padding-left: 160px;
+  padding-right: 160px;
+  padding-top:30px;
+  text-align: center;
+
+}
+.about_plainly{
+
+}
+.pic_of_plainly2{
+  height: 275px;
+  width: 177px;
+}
+.plainly{
+  font-size: 16px;
+  padding-top: 20px;
+}
+.plainly_in_japanese{
+  font-size: 10px;
+  font-family: serif;
+}
+.cost_of_plainly2{
+  font-size: 12px;
+  font-family: serif;
+}
+.box_buy_plainly2{
+  font-size: 10px;
+  border: solid 1px;
+  display: inline-block;
+  border-color: rgb(220,216,209);
+  padding: 8px 40px;
+}
+
+.about_memento{
+
+}
+.pic_of_memento2{
+  height: 275px;
+  width: 177px;
+}
+.memento{
+  font-size: 16px;
+  padding-top: 20px;
+}
+.memento_in_japanese{
+  font-size: 10px;
+  font-family: serif;
+}
+.cost_of_memento2{
+  font-size: 12px;
+  font-family: serif;
+}
+.box_buy_memento2{
+  font-size: 10px;
+  border: solid 1px;
+  display: inline-block;
+  border-color: rgb(220,216,209);
+  padding: 8px 40px;
+}
+
+.about_whimsy{
+
+}
+.pic_of_whimsy2{
+  height: 275px;
+  width: 177px;
+}
+.whimsy{
+  font-size: 16px;
+  padding-top: 20px;
+}
+.whimsy_in_japanese{
+  font-size: 10px;
+  font-family: serif;
+}
+.cost_of_whimsy2{
+  font-size: 12px;
+  font-family: serif;
+}
+.box_buy_whimsy2{
+  font-size: 10px;
+  border: solid 1px;
+  display: inline-block;
+  border-color: rgb(220,216,209);
+  padding: 8px 40px;
+}
+
+.about_salvage{
+
+}
+.pic_of_salvage2{
+  height: 275px;
+  width: 177px;
+}
+.salvage{
+  font-size: 16px;
+  padding-top: 20px;
+}
+.salvage_in_japanese{
+  font-size: 10px;
+  font-family: serif;
+}
+.cost_of_salvage2{
+  font-size: 12px;
+  font-family: serif;
+}
+.box_buy_salvage2{
+  font-size: 10px;
+  border: solid 1px;
+  display: inline-block;
+  border-color: rgb(220,216,209);
+  padding: 8px 40px;
+}
+
+.box_comingsoon{
+  font-size: 10px;
+  color: rgb(220,216,209);
+  border: solid 1px;
+  display: inline-block;
+  border-color: rgb(220,216,209);
+  padding: 4px 8px;
+}
+
+.under_eudeparfam{
+  padding-top: 130px;
+  padding-bottom: 130px;
+}
+.pic_under_eudeparfam{
+  height: 856px;
+  width: 1280px;
+}
+
+.about_us{
+  text-align: center;
+  font-family: serif;
+  font-size: 13px;
+  line-height: 35px;
+  padding-top: 20px;
+}
+.donation{
+  margin-top: 96px;
+  margin-bottom: 96px;
+  background-color: rgb(115,113,109);
+  color: rgb(255,255,255);
+}
+.title_of_donation{
+  font-size: 36px;
+  text-align: center;
+}
+.title_of_donation_j{
+  font-size: 14px;
+  text-align: center;
+  font-family: serif;
+}
+.text_of_donation{
+  text-align: center;
+  font-family: serif;
+  font-size: 13px;
+  line-height: 35px;
+  padding-top: 20px;
+}
+.box_donation_corona{
+  font-size: 13px;
+  font-family: serif;
+  border: solid 1px;
+  display: inline-block;
+  padding: 8px 40px;
+  text-align: center;
+}
+.text_of_donation_corona{
+  font-size: 13px;
+  font-family: serif;
+  text-align: center;
+}
