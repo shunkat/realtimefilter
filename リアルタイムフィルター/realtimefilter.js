@@ -9,6 +9,7 @@ $(function () {
 
     // 検索結果を格納するための配列を用意
     searchResult = [];
+    performResult = [];
 
     // 検索結果エリアの表示を空にする
     $('#search-result__list').empty();
@@ -18,13 +19,13 @@ $(function () {
     if (searchText != '') {
       $('.addhidden span').each(function() {
         targetText = $(this).text();
-        performResult = $(this).parent().css("display", "none");
+        performResult = $(this).addClass("hidden");
 
         // 検索対象となるリストに入力された文字列が存在するかどうかを判断
         if (targetText.indexOf(searchText) != -1) {
           searchResult.push(targetText);
         }else{
-          console.log("performResult");
+          performResult = $(this).addClass("hidden");
         }
       });
 
@@ -38,6 +39,7 @@ $(function () {
       $('.search-result__hit-num').append(hitNum);
     }
     console.log("searchResult");
+    console.log("performResult");
   };
 
   // searchWordの実行
