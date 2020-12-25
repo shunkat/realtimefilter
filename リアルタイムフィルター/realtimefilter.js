@@ -19,7 +19,6 @@ $(function () {
     if (searchText != '') {
       $('.addhidden span').each(function() {
         targetText = $(this).text();
-        performResult = $(this).addClass("hidden");
 
         // 検索対象となるリストに入力された文字列が存在するかどうかを判断
         if (targetText.indexOf(searchText) != -1) {
